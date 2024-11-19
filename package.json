@@ -1,0 +1,11 @@
+{
+  "name": "pw-ii",
+  "version": "1.0.0",
+  "description": "aula de modulo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Weslen",
+  "license": "ISC"
+}
